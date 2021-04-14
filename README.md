@@ -29,3 +29,7 @@ Because `git add .` DOES NOT update the deleted files and folders.
 ## Git Branching
 
 - [Course Note](https://github.com/HackerYou/bootcamp-notes/blob/master/git-and-command-line/git-branching.md)
+
+## GitHup Pages
+
+- [Course Note](https://github.com/HackerYou/bootcamp-notes/blob/master/git-and-command-line/github-pages.md)
